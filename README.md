@@ -2,8 +2,8 @@
 
 Basic responsive Bootstrap frontend to [Google Calendar](https://www.google.com/calendar) with backend [Google Apps Script](https://developers.google.com/apps-script/) code.
 
-Best suited for users (typically office users), who are more tied to their desktop email clients than to mobile and web applications, and want a quick way to set a reminder on the fly.
-The user will receive a notification from `calendar-notification@google.com` to his Google Mail inbox on due date. These notifications can then be easily filtered and forwarded to any email address.
+Best suited for users (typically office users), who are more tied to their desktop email clients than to mobile and web applications, and want a quick way to set reminders on the fly.
+The user will receive a notification from `calendar-notification@google.com` to his Google Mail inbox on the selected date. These notifications can then be easily [filtered](https://support.google.com/mail/answer/6579?hl=en) and forwarded to any other email address.
 
 ## Installation
 
@@ -20,7 +20,7 @@ The user will receive a notification from `calendar-notification@google.com` to 
 
 ## Demo
 
-You can try the web application here: https://script.google.com/macros/s/AKfycbyJAb5tyhU9j73o0fluMah0toXzjkNguafQ9HOxYxjf85qdS5o/exec
+You can try it here: https://script.google.com/macros/s/AKfycbyJAb5tyhU9j73o0fluMah0toXzjkNguafQ9HOxYxjf85qdS5o/exec
 
 ![Animated Gif Demo](calendar-frontend-demo.gif)
 
