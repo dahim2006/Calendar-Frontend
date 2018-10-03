@@ -18,11 +18,11 @@ The user will receive a notification from `calendar-notification@google.com` to 
 5. Go to the URL under **`Current web app URL`** (web app URL)
 6. Confirm Apps Scripts authorizations.
 
-![Animated Gif Demo](calendar-frontend-demo.gif)
-
 ## Demo
 
 You can try the web application here: https://script.google.com/macros/s/AKfycbyJAb5tyhU9j73o0fluMah0toXzjkNguafQ9HOxYxjf85qdS5o/exec
+
+![Animated Gif Demo](calendar-frontend-demo.gif)
 
 Please, note that this demo application is hosted by a free Google account, which is subject to Apps Script services [quotas and limitations.](https://developers.google.com/apps-script/guides/services/quotas)
 
