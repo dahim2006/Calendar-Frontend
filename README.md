@@ -24,7 +24,7 @@ You can try the web application here: https://script.google.com/macros/s/AKfycby
 
 ![Animated Gif Demo](calendar-frontend-demo.gif)
 
-Please, note that this demo application is hosted by a free Google account, which is subject to Apps Script services [quotas and limitations.](https://developers.google.com/apps-script/guides/services/quotas)
+Please, note that this demo is hosted by a free Google account, which is subject to Apps Script services [quotas and limitations.](https://developers.google.com/apps-script/guides/services/quotas)
 
 To later revoke app's access to your data, follow the steps described here: [Revoking access rights | Authorization for Google Services  |  Apps Script](https://developers.google.com/apps-script/guides/services/authorization#revoking_access_rights)
 
